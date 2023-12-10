@@ -1,0 +1,18 @@
+.menu-card{
+    background-color: white;
+    padding: 30px;
+    border-radius: 30px;
+    justify-content: center;
+    box-shadow:2px 2px 10px  rgba(0,0,0,0.5);
+   
+}
+
+.menu-card img{
+    border-radius:10px 10px 10px 10px;
+}
+.menu-card h3{
+    padding: 5px;
+}
+.menu-icon a button{
+    padding: 10px;
+}

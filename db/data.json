@@ -1,0 +1,40 @@
+{
+    "Card": [
+        {
+            "Namaguru": "Suharni",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas 10"
+        },
+         {
+            "Namaguru": "Suharni",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas 11"
+        },
+         {
+            "Namaguru": "Suharni",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas 12"
+        },
+         {
+            "Namaguru": "Ulfa Mujahidah",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas 10"
+        },
+         {
+            "Namaguru": "Suharni",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas 12"
+        },
+         {
+            "Namaguru": "Suharni",
+            "Mapel" : "Matematika",
+            "Image" : "assets/event-3.png",
+            "Kelas": "Kelas "
+        }
+    ] 
+}
