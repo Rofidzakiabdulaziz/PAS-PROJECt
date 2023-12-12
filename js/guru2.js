@@ -1,5 +1,5 @@
 async function getMenuData(){
-    const response = await fetch("db/data.json")
+    const response = await fetch("db/guru2.json")
     const dataApi =await response.json()
     console.log(dataApi)
 
@@ -22,7 +22,7 @@ const addMenudata = (img , judul , mapel , kelas) => {
      <h3>Nama:${judul}</h3>
      <h3>Mapel:${mapel}</h3>
      <div class="row">
-     <a href="coba.html" class="col-6 mx-3 p-0">  <button type="button" class="btn btn-dark  px-4 me-md-2">Show More</button></a>
+     <a href="show.html" class="col-6 mx-3 p-0">  <button type="button" class="btn btn-dark  px-4 me-md-2">Show More</button></a>
    </div>
      </a>
     </div>

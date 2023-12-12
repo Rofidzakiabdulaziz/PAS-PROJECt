@@ -3,38 +3,38 @@
         {
             "Namaguru": "Suharni",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas 10"
+            "Image" : "assets/event-3.png"
+           
         },
          {
             "Namaguru": "Suharni",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas 11"
+            "Image" : "assets/event-3.png"
+           
         },
          {
             "Namaguru": "Suharni",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas 12"
+            "Image" : "assets/event-3.png"
+           
         },
          {
             "Namaguru": "Ulfa Mujahidah",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas 10"
+            "Image" : "assets/event-3.png"
+           
         },
          {
             "Namaguru": "Suharni",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas 12"
+            "Image" : "assets/event-3.png"
+            
         },
          {
             "Namaguru": "Suharni",
             "Mapel" : "Matematika",
-            "Image" : "assets/event-3.png",
-            "Kelas": "Kelas "
+            "Image" : "assets/event-3.png"
+        
         }
     ] 
 }

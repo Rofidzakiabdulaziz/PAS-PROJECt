@@ -1,18 +1,136 @@
-.menu-card{
-    background-color: white;
-    padding: 30px;
-    border-radius: 30px;
-    justify-content: center;
-    box-shadow:2px 2px 10px  rgba(0,0,0,0.5);
-   
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --1rem: 16px;
+  --1setengah: 22px;
+  --2rem: 32px;
+  --font-semibold: 900;
+  --font-regular: 300;
+  --font-bold: bold;
 }
 
-.menu-card img{
-    border-radius:10px 10px 10px 10px;
+/* guru */
+.menu-card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 30px;
+  justify-content: center;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
-.menu-card h3{
-    padding: 5px;
+
+.menu-card img {
+  border-radius: 10px 10px 10px 10px;
 }
-.menu-icon a button{
+.menu-card h3 {
+  padding: 5px;
+}
+.menu-icon a button {
+  padding: 10px;
+}
+
+/* guru */
+
+/* testi */
+
+.menu-testi {
+    display: grid;
+}
+
+.menu-icontesti {
+    display: flex;
+  background-color: white;
+  padding: 30px;
+  border-radius: 30px;
+  justify-content: center;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  align-items: center;
+}
+
+.inpo {
+    justify-content: center;
+}
+
+.menu-icontesti img {
     padding: 10px;
+    width: 120px;
+    height: 112px;  
+    border-radius: 50%;
+    margin-bottom: 60px;
 }
+/* testi */
+
+/* .cta {
+  display: grid;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.ctn {
+  display: flex;
+  padding: 10px;
+}
+
+.info {
+    margin: 20px;
+}
+
+.pp {
+  width: 120px;
+  height: 112px;
+  border-radius: 50%;
+  flex-shrink: 0;
+} */
+
+/* footer */
+footer {
+  background-color: var(--black);
+  color: var(--white);
+  padding: var(--2rem);
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+.footer-left h3 {
+  margin: 0;
+  font-weight: var(--font-semibold);
+}
+.footer-left p {
+  font-size: var(1rem);
+  color: var(--white);
+}
+.footer-right {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--1rem);
+}
+.footer-grid h4 {
+  font-weight: var(--font-semibold);
+}
+.footer-grid ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.footer-grid li {
+  margin-bottom: 5px;
+}
+.footer-grid img {
+  height: 20px;
+  width: 20px;
+}
+.footer-grid a {
+  text-decoration: none;
+  color: white;
+}
+.footer-grid a:hover {
+  color: pink;
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+}
+.footer-bottom {
+  text-align: center;
+}
+.footer-bottom-reserved {
+  font-size: var(--1rem);
+}
+/* footer */
